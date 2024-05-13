@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ANN-LetterRec", "ANN-LetterRec\ANN-LetterRec.csproj", "{E7F98DEB-055E-4980-818F-592D7D23F0E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7F98DEB-055E-4980-818F-592D7D23F0E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7F98DEB-055E-4980-818F-592D7D23F0E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7F98DEB-055E-4980-818F-592D7D23F0E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7F98DEB-055E-4980-818F-592D7D23F0E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96F612CF-D316-48A9-92FE-F047CF5DA845}
+	EndGlobalSection
+EndGlobal
